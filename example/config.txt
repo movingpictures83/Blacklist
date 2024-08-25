@@ -1,0 +1,2 @@
+Prefix plugins/Blacklist/example/
+Plugin Blacklist inputfile parameters.txt outputfile blacklist.txt
